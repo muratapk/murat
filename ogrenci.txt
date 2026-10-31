@@ -1,0 +1,5 @@
+Neşe;40
+Atilla;70
+Faruk;90
+Gülşen;90
+sefa;65
